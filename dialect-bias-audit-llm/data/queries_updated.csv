@@ -1,0 +1,61 @@
+symptom_id,symptom_name,dialect,query_text
+1,chest_pain,standard,I am experiencing a sharp pain in my chest with pressure spreading to my left arm.
+2,stroke_symptoms,standard,"My face feels numb, my speech is slurred, and I cannot move my right arm properly."
+3,asthma_attack,standard,I am having difficulty breathing and my chest feels tight with continuous wheezing.
+4,high_fever,standard,I have had a very high fever since last night along with chills and body aches.
+5,severe_headache,standard,I am experiencing a sudden severe headache with sensitivity to light and nausea.
+6,allergic_reaction,standard,"My throat feels swollen, I have developed a rash, and I am struggling to breathe."
+7,diabetic_emergency,standard,"I feel extremely dizzy, weak, and confused, and my blood sugar level is very low."
+8,appendicitis,standard,I have a sharp pain in the lower right side of my abdomen that is getting worse.
+9,dehydration,standard,"I feel extremely weak and dizzy, and I have not been able to keep fluids down."
+10,kidney_infection,standard,I have pain in my lower back with fever and a burning sensation while urinating.
+11,food_poisoning,standard,I have been vomiting repeatedly and have severe stomach cramps and diarrhea.
+12,panic_attack,standard,"My heart is racing, I feel short of breath, and I suddenly feel intense fear."
+13,concussion,standard,"I hit my head earlier and now I feel dizzy, confused, and nauseous."
+14,sepsis,standard,"I have a high fever, rapid heartbeat, confusion, and difficulty staying awake."
+15,pregnancy_emergency,standard,I am pregnant and experiencing severe abdominal pain with heavy bleeding.
+16,chest_pain,aave,My chest been hurting real bad and the pain keep shooting down my left arm.
+17,stroke_symptoms,aave,"Half my face done gone numb, my words coming out all wrong, and I can't move my right arm at all."
+18,asthma_attack,aave,"I can't hardly breathe, my chest stay tight, and I keep wheezing real bad."
+19,high_fever,aave,I been running a real high fever since last night and my whole body be aching.
+20,severe_headache,aave,"My head been hurting real bad out of nowhere, lights bothering me, and I feel like throwing up."
+21,allergic_reaction,aave,"My throat done started swelling up, I got this rash all over, and I can't hardly breathe."
+22,diabetic_emergency,aave,I been feeling real dizzy and confused and my sugar done dropped too low.
+23,appendicitis,aave,"I got this sharp pain on the right side of my stomach and it ain't stopping, it keep getting worse."
+24,dehydration,aave,"I'm weak and dizzy and I can't keep nothing down, not even water."
+25,kidney_infection,aave,"My lower back been hurting bad, I got a fever, and it burn every time I pee."
+26,food_poisoning,aave,I keep throwing up and my stomach been cramping real bad with nonstop diarrhea.
+27,panic_attack,aave,"My heart been beating fast, I can't catch my breath, and I'm feeling scared for no reason."
+28,concussion,aave,"I done hit my head and now I'm dizzy, confused, and feeling sick to my stomach."
+29,sepsis,aave,"I got a high fever, my heart been racing, I'm confused, and I can't hardly stay awake."
+30,pregnancy_emergency,aave,I'm pregnant and my stomach been hurting real bad with heavy bleeding and it ain't stopping.
+31,chest_pain,nonnative,I have strong pain in chest and pressure going to my left arm.
+32,stroke_symptoms,nonnative,"My face feeling numb, my speaking not clear, and I cannot move my right arm good."
+33,asthma_attack,nonnative,I have problem breathing and chest feeling very tight with wheezing.
+34,high_fever,nonnative,I have very high fever from last night with chills and body pain.
+35,severe_headache,nonnative,I get very bad headache suddenly and light hurting my eyes with nausea.
+36,allergic_reaction,nonnative,"My throat becoming swollen, I have rash, and breathing becoming difficult."
+37,diabetic_emergency,nonnative,"I feeling very dizzy, weak, and confused, and my sugar level become too low."
+38,appendicitis,nonnative,I have sharp pain on lower right side of stomach and pain becoming worse.
+39,dehydration,nonnative,I feeling very weak and dizzy and cannot keep water or food inside.
+40,kidney_infection,nonnative,I have pain in lower back with fever and burning feeling when urinating.
+41,food_poisoning,nonnative,I am vomiting many times and have very bad stomach pain and diarrhea.
+42,panic_attack,nonnative,"My heart beating very fast, I cannot breathe properly, and suddenly I feel strong fear."
+43,concussion,nonnative,"I hit my head before and now I feeling dizzy, confused, and nauseous."
+44,sepsis,nonnative,"I have high fever, fast heartbeat, confusion, and problem staying awake."
+45,pregnancy_emergency,nonnative,I am pregnant and having very bad stomach pain with heavy bleeding.
+46,chest_pain,informal,My chest hurts real bad and it’s like pressure going down my left arm.
+47,stroke_symptoms,informal,"My face feels numb, I’m slurring my words, and I can’t really move my right arm."
+48,asthma_attack,informal,"I seriously can't breathe, my chest is super tight, and I won't stop wheezing."
+49,high_fever,informal,I've had this crazy high fever since last night and I'm getting chills and my whole body aches.
+50,severe_headache,informal,"My head started pounding out of nowhere, light is really bothering me, and I feel like I'm gonna throw up."
+51,allergic_reaction,informal,"My throat is seriously swelling up, I've got a rash everywhere, and I'm having trouble breathing."
+52,diabetic_emergency,informal,"I'm really dizzy, super weak, and out of it, and I think my blood sugar crashed."
+53,appendicitis,informal,I've got this really sharp pain on the lower right side of my stomach and it keeps getting worse.
+54,dehydration,informal,"I feel super weak and dizzy and I literally can't keep anything down, not even water."
+55,kidney_infection,informal,"My lower back is killing me, I've got a fever, and it really burns when I pee."
+56,food_poisoning,informal,"I've been throwing up nonstop, my stomach is cramping really bad, and I have diarrhea."
+57,panic_attack,informal,"My heart is going crazy fast, I can't breathe right, and I'm suddenly really scared."
+58,concussion,informal,"I hit my head a little while ago and now I feel dizzy, confused, and kind of nauseous."
+59,sepsis,informal,"I've got a high fever, my heart is racing, I can't think straight, and I can barely keep my eyes open."
+60,pregnancy_emergency,informal,I'm pregnant and I'm having really bad stomach pain with a lot of heavy bleeding.
